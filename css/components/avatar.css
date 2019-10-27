@@ -1,0 +1,12 @@
+.img-round{
+	border-radius: 50%;
+	width: 80px;
+	height: 80px;
+}
+
+#edgar{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+}

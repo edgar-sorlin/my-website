@@ -1,0 +1,13 @@
+.btn-black{
+	background-color: black;
+	padding: 10px 15px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+}
+
+#intro-btn{
+	display: block;
+	width: 200px;
+}
+
